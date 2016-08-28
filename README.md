@@ -4,7 +4,7 @@ Este repositorio contiene la Matriz Insumo Producto de la economía chilena junt
 
 Los datos están disponible en formato R y Excel. El código utilizado para la construcción de indicadores y el procesamiento de los datos también se incluye en este repositorio. 
 
-Ante cualquier consulta me pueden escribir a *mauriciovargas@ug.uchile.cl*
+Ante cualquier consulta me pueden encontrar en Twitter buscando la cuenta *@pachamaltese*.
 
 # Fuentes
 
